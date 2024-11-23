@@ -1,2 +1,2 @@
-# earning-about-version-control
-Learning about Version Control
+# Learning-about-version-control
+- author: Dominic Lam
